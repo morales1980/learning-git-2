@@ -1,6 +1,6 @@
-.column {
-  background: #55ee70;
-  height: 100px;
-  display: block;
-  float: left;
+$columns: 2;
+$margin: 2%;
+
+.container {
+  width: 100%;
 }
