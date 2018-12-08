@@ -21,7 +21,7 @@
 }
 
 p {
+  display: -ms-flexbox;
   display: flex;
 }
-
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.prefixed.css.map */
