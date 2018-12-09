@@ -23,5 +23,11 @@
 p {
   display: -ms-flexbox;
   display: flex;
+  color: red;
+}
+
+article {
+  display: -ms-flexbox;
+  display: flex;
 }
 /*# sourceMappingURL=style.prefixed.css.map */
