@@ -21,12 +21,7 @@
 }
 
 p {
-  display: flex;
-  color: red;
-}
-
-article {
+  display: -ms-flexbox;
   display: flex;
 }
-
 /*# sourceMappingURL=style.css.map */
